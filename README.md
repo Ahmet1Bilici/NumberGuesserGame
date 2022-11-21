@@ -1,3 +1,3 @@
 # NumberGuesserGame
 
-#![](https://github.com/NumberGuesserGame/NumberGuesser.gif)
+#![](https://github.com/Ahmet1Bilici/NumberGuesserGame/blob/main/NameGuesserGif.gif)
